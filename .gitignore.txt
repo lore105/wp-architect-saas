@@ -1,0 +1,15 @@
+# WordPress core
+/wp-admin/
+/wp-includes/
+
+# Sensitive files
+wp-config.php
+
+# Logs and backups
+*.log
+*.sql
+*.zip
+
+# Node and Composer
+node_modules/
+vendor/
